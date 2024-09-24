@@ -5,5 +5,3 @@ I'm Ravindranath katta. I completed my undergraduate degree in Computer Science 
 
 ## Image
 ![Alt text](Ravindranath-katta.jpg)
-
-
