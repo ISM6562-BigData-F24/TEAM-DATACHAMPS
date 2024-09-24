@@ -8,8 +8,7 @@
 ## Image
 
 
-```python
 ![Alt text](Ravindranath-katta.jpg)
-```
+
 
 
