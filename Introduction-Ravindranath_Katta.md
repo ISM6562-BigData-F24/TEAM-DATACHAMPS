@@ -9,7 +9,7 @@
 
 
 ```python
-![Ravindranath Katta](Ravindranath-katta.jpg)
+![Alt text](Ravindranath-katta.jpg)
 ```
 
 
